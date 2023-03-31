@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "esp")(type "KiCad")(uri "${KIPRJMOD}/library/esp-libraries/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "scd30")(type "KiCad")(uri "${KIPRJMOD}/library/scd30/SCD30.kicad_sym")(options "")(descr ""))
+  (lib (name "gct")(type "Legacy")(uri "${KIPRJMOD}/library/usb4105/USB4105-GF-A.lib")(options "")(descr ""))
+)

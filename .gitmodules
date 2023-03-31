@@ -1,0 +1,3 @@
+[submodule "airquality-pcb/library/esp-libraries"]
+	path = airquality-pcb/library/esp-libraries
+	url = https://github.com/espressif/kicad-libraries.git
